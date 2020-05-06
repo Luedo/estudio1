@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "estudio1"
+    }
+  },
+  "defaultProject": "estudio1",
+  "cli": {
+    "analytics": "609931af-25c3-4bf4-9d84-b426db0a8166"
+  }
 }
